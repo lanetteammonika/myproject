@@ -1,0 +1,7 @@
+--today work--
+	- complete validation.
+	- Perform autoincrement opration on specific field(like id).
+	- Learn about Procedure, Cursor and Triggers in MySQL.
+
+--tommorow work--
+	- implement Procedure, Cursor and Triggers in MySQL.
