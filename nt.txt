@@ -1,0 +1,7 @@
+--today work--
+	- Upload file using multer in node js.
+	- Perform autoincrement opration on specific field(like id).
+	- Learn basic of Xcode and swift.(lectured by 
+
+--tommorow work--
+	- create a demo app and learn basic function using xcode.
